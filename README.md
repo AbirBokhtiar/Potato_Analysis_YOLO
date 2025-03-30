@@ -1,4 +1,4 @@
-# README: Precise Potato Leaf Disease Detection with YOLO Models
+# Precise Potato Leaf Disease Detection with YOLO Models
 
 ## Overview
 This repository contains the implementation of **You Only Look Once (YOLO)** models for detecting potato leaf diseases, including **early blight**, **late blight**, and **healthy leaves**. The study evaluates the performance of **YOLOv8**, **YOLOv9**, **YOLOv10**, and **YOLOv11** on a dataset of **2,152 images**. Among these, **YOLOv11** demonstrated the highest performance, achieving a **mAP50 of 99.5%**, **precision of 98.1%**, and **recall of 97.1%**. The results highlight the effectiveness of YOLOv11 in accurately detecting potato leaf diseases, contributing to improved agricultural productivity and sustainability.
